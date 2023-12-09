@@ -35,4 +35,4 @@ If the game is open close it and reopen it, or just open the game and everything
 Example📷 - https://cdn.discordapp.com/attachments/1062739225474252840/1182947704406552586/image.png?ex=65868ce6&is=657417e6&hm=9ee06c0673261e92166e5d6daecdf161fde53cef24bbf16648f4c9377a265006&
 
 # DESCRIPTION 🙄
-This is a comprehensive Step by Step guide to installing the mods that Jorgen & his Friends use for Lethal Company. If you have any questions, DM Commander Jorgen on discord OR find his stream at https://www.twitch.tv/lord_commander_jorgen
+This is a comprehensive Step by Step guide to installing the mods that Jorgen & his Friends use for Lethal Company. If you have any questions, DM Commander Jorgen on Discord OR find his stream at https://www.twitch.tv/lord_commander_jorgen
