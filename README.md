@@ -26,13 +26,15 @@ Example📷 - https://cdn.discordapp.com/attachments/1062739225474252840/1182947
 Copy all of the files in this folder where the Installation Guide is and Paste them into the Lethal Company folder you previously opened through Browsing the Game Files in Steam
 
 ## This are the files you need to copy and Paste into the Folder from Step 3
-Example📷 - https://cdn.discordapp.com/attachments/1062739225474252840/1182969468545159249/image.png?ex=6586a12b&is=65742c2b&hm=9f3529fd3b58b47b8225e0c5db34debc5a38812c0f134fbc6277a3a9df9a5e92&
+Example📷 - https://cdn.discordapp.com/attachments/1062739225474252840/1186679619529736323/image.png?ex=65942084&is=6581ab84&hm=0272415b0288a9babd324a304e2c28b6143bc5c20cb71002518ecc55c7713f2e&
 
 # Step 5️⃣
 If the game is open close it and reopen it, or just open the game and everything will be installed.
 
 ## Your files should look like this when completed properly
-Example📷 - https://cdn.discordapp.com/attachments/1062739225474252840/1182969421736714320/image.png?ex=6586a120&is=65742c20&hm=5568e6f53904d1c747f995f24bd68c41796b871d93b61a54384e5f346f0e69c1&
+Example📷 - https://cdn.discordapp.com/attachments/1062739225474252840/1186680084619350067/image.png?ex=659420f3&is=6581abf3&hm=56ab5ee9d928d3d240ea22d476479461a7924a216269482ff93f27e96f186b8c&
+
+
 
 # DESCRIPTION 🙄
 This is a comprehensive Step by Step guide to installing the mods that Jorgen & his Friends use for Lethal Company. If you have any questions, DM Commander Jorgen on Discord OR find his stream at https://www.twitch.tv/lord_commander_jorgen
