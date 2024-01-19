@@ -1,6 +1,6 @@
 # Download the Lethal Company Mods from this link below⏬ 
 
-## https://drive.google.com/file/d/1d7raHtWdze5TkSHlRVf6kjll_iSWikXW/view?usp=sharing
+## https://drive.google.com/file/d/1j4I1BhUdvAhjcTIcO8zcGexmyyFaTIWD/view?usp=sharing
 
 # Install Guide Below⏬
  ### Installation Guide for Mods for Jorgen & Friends!! 👨‍💻👩‍💻 ###
